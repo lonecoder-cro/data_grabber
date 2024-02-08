@@ -5,17 +5,16 @@
 import re
 import os
 import sys
+import ctypes
 import argparse
 import threading
-import ctypes
 import subprocess
 
 try:
     import bs4
     import requests
-    import requests_html
+   # import requests_html
     from ogt.ogtnet.ogtuseragents import OGTUserAgents
-    from ogt.ogtparser.ogtphonenumber import OGTPhoneNumber
 except ImportError as e:
     raise ImportError(str(e))
 
