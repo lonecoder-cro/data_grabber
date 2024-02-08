@@ -1,10 +1,10 @@
 ## Data Grabber
 
-A tool which can be used to grab emails and phone numbers fro files and urls.It can also be used to extract wifi passwords.
+A tool which can be used to grab emails and phone numbers from files and urls.It can also be used to extract wifi passwords.
 
 ## Usage
 * windows
-* linux/mac - might added later on
+* linux/mac - not yet supported
 
 ## Test urls
 
