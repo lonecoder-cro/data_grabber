@@ -1,12 +1,12 @@
-## Data Grabber
+# Data Grabber
 
 A tool which can be used to grab emails and phone numbers from files and urls.It can also be used to extract wifi passwords.
 
-## Usage
+# Usage
 * windows
 * linux/mac - not yet supported
 
-## Test urls
+# Test urls
 
 * phone numbers = https://lookup.robokiller.com/ | https://www.nomorobo.com/lookup
 * emails = https://www.randomlists.com/email-addresses?qty=10000
